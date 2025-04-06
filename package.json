@@ -1,0 +1,10 @@
+{
+  "name": "nuxt-web.dev",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "nuxt dev"
+  },
+  "dependencies": {
+    "nuxt": "^3.10.0"
+  }
+}
